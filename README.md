@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <a href="http://qiita.com/ymdd1">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ymdd1/posts.svg" />
   </a>
-  <//qiita.com/ymdd1">
+  <a href="http://qiita.com/ymdd1">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ymdd1/contributions.svg" />
   </a>
 </p>
