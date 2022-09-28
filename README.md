@@ -31,10 +31,10 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/5720201/ymdd1">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="http://qiita.com/ymdd1">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ymdd1/posts.svg" />
+  <a href="http://qiita.com/dai-maru">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/dai-maru/posts.svg" />
   </a>
-  <a href="http://qiita.com/ymdd1">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ymdd1/contributions.svg" />
+  <a href="http://qiita.com/dai-maru">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/dai-maru/contributions.svg" />
   </a>
 </p>
